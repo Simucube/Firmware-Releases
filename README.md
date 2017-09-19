@@ -9,7 +9,7 @@ Please always use the version from above link, as we are continuosly improving t
 ## Support and bug reporting
 Please do not send support requests regarding the beta version to the Granite Devices support emails. Instead, please register to our community forum at https://community.granitedevices.com/ and use appropriate thread there.
 
-## End-user license
+## End-user license and copyright information
 Please read the EULA.md file.
 
 
