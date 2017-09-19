@@ -1,7 +1,7 @@
 
 # End-User License Agreement (EULA) of SimuCUBE Firmware and Configuration Tool
 
-This End-User License Agreement ("EULA") is a legal agreement between you (end-user) and Granite Devices, based in Tampere, Finland and registered in Finland.
+This End-User License Agreement ("EULA") is a legal agreement between you (end-user) and Granite Devices Oy, a corporation organized and existing under the laws of Finland with business identity code 2094427-9, having its registered office in Tampere, Finland.
 
 This EULA agreement governs your acquisition and use of our SimuCUBE Firmware and Configuration Tool software ("Software") directly from Granite Devices or indirectly through a Granite Devices authorized reseller or distributor (a "Reseller").
 
@@ -46,4 +46,4 @@ It will also terminate immediately if you fail to comply with any term of this E
 
 ## Governing Law
 
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Finland. 
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Finland. Any and all disputes that may arise between User and Granite Devices out of or relating to this Agreement shall be finally settled in arbitration in Tampere, Finland, by one (1) arbitrator in accordance with the Arbitration Rules of the Finland Chamber of Commerce. English shall be the language of the arbitration proceedings unless another language is agreed on between the Parties. The parties undertake and agree that all arbitral proceedings conducted with reference to this section shall be kept strictly confidential and all information disclosed in the course of such arbitral proceeding shall be used solely for the purpose of those proceedings. Notwithstanding the foregoing, nothing in this Agreement shall be deemed to limit the Parties' rights to seek interim injunctive relief or to enforce an arbitration award in any court of law.
