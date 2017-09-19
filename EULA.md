@@ -5,7 +5,7 @@ This End-User License Agreement ("EULA") is a legal agreement between you and Gr
 
 This EULA agreement governs your acquisition and use of our SimuCUBE Firmware and Configuration Tool software ("Software") directly from Granite Devices or indirectly through a Granite Devices authorized reseller or distributor (a "Reseller").
 
-Please read this EULA agreement carefully before completing the installation process and using the SimuCUBE Firmware and Configuration Tool software. It provides a license to use the SimuCUBE Firmware and Configuration Tool software and contains warranty information and liability disclaimers.
+Please read this EULA agreement carefully before completing the installation process and using the SimuCUBE Firmware and Configuration Tool software. It provides a license to use the SimuCUBE Firmware and Configuration Tool software and contains liability disclaimers.
 
 If you use beta versions of the SimuCUBE Firmware and Configuration Tool software, this EULA agreement will also govern those versions. By installing and/or using the SimuCUBE Firmware and Configuration Tool software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
@@ -26,11 +26,17 @@ You are not permitted to:
 - use the Software for any purpose that Granite Devices considers is a breach of this EULA agreement
 
 
+
+The Software is provided "as is" without any warranty of any kind, either expressed, implied, or statutory, including, but not limited to, any warranty that the Software will conform to specifications, any implied warranties of merchantability, fitness for a particular purpose, and freedom from infringement, and any warranty that the documentation will conform to the software, or any warranty that the Software will be error free. User shall not file any claim against Granite Devices for any matter concerning the Software, performance of, failure to perform, breach or other matter related to, this Agreement. User's sole remedy for any such matter shall be the immediate, unilateral termination of this Agreement.  
+
+Granite Devices shall not be liable for any damage or injury suffered by User or its representatives, regardless of cause, and User hereby expressly waives any rights it might otherwise have. User under this section includes any further User to which User provides the Software and/or Works Based on the Software.
+
 ## Intellectual Property and Ownership
 
 Granite Devices shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Granite Devices.
 
 Granite Devices reserves the right to grant licences to use the Software to third parties.
+
 
 ## Termination
 
