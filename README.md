@@ -11,3 +11,8 @@ Please do not send support requests regarding the beta version to the Granite De
 
 ## End-user license
 Please read the EULA.md file.
+
+
+## Open-source development
+We are interested in community efforts to improve the firmware. Please contact us if you are interested, and have skills including Eclipse, Segger J-link, STM32CubeMX and C++ using STM HAL library. Eventually, we are going to open up some of the code for completely open development.
+
