@@ -1,49 +1,68 @@
+# Granite Devices Software End-User License Agreement
 
-# End-User License Agreement (EULA) of SimuCUBE Firmware and Configuration Tool
+This End-User License Agreement ("EULA" or "Agreement") is a legal agreement between You, the end-user (either an individual or a single entity), and Granite Devices Oy ("Granite Devices"). This EULA governs Your acquisition and use of the executable software accompanying the Product that is made available by Granite Devices ("Software").
 
-This End-User License Agreement ("EULA") is a legal agreement between you (end-user) and Granite Devices Oy, a corporation organized and existing under the laws of Finland with business identity code 2094427-9, having its registered office in Tampere, Finland.
+By installing or using the Software, You agree to be bound by the terms of this Agreement. If You do not agree to the terms of this Agreement, You may not install or use the Software.
 
-This EULA agreement governs your acquisition and use of our SimuCUBE Firmware and Configuration Tool software ("Software") directly from Granite Devices or indirectly through a Granite Devices authorized reseller or distributor (a "Reseller").
-
-Please read this EULA agreement carefully before completing the installation process and using the SimuCUBE Firmware and Configuration Tool software. It provides a license to use the SimuCUBE Firmware and Configuration Tool software.
-
-If you use beta versions of the SimuCUBE Firmware and Configuration Tool software, this EULA agreement will also govern those versions. By installing and/or using the SimuCUBE Firmware and Configuration Tool software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
-
-If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and in that case you do not have the license to install and use the software.
-
-This EULA agreement shall apply only to the Software supplied by Granite Devices herewith regardless of whether other software is referred to or described herein. The terms also apply to any Granite Devices updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
-
-## License Grant
-
-Granite Devices hereby grants you a personal, non-transferable, non-exclusive licence to use the SimuCUBE Firmware and Configuration Tool software on your devices in accordance with the terms of this EULA agreement.
-
-You are permitted to download the SimuCUBE Firmware and Configuration Tool software to a device (for example a PC, laptop) under your control. You are permitted to install the firmware on to a SimuCUBE device.
-
-You are not permitted to:
-
-- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
-- Use the Software in any way which breaches any applicable local, national or international law
-- use the Software for any purpose that Granite Devices considers is a breach of this EULA agreement
+If You use beta versions of the Software, this EULA will also govern those versions.
 
 
 
-The Software is provided "as is" without any warranty of any kind, either expressed, implied, or statutory, including, but not limited to, any warranty that the Software will conform to specifications, any implied warranties of merchantability, fitness for a particular purpose, and freedom from infringement, and any warranty that the documentation will conform to the software, or any warranty that the Software will be error free. User shall not file any claim against Granite Devices for any matter concerning the Software, performance of, failure to perform, breach or other matter related to, this Agreement. User's sole remedy for any such matter shall be the immediate, unilateral termination of this Agreement.  
+## Rights and obligations
 
-Granite Devices shall not be liable for any damage or injury suffered by User or its representatives, regardless of cause, and User hereby expressly waives any rights it might otherwise have. User under this section includes any further User to which User provides the Software and/or Works Based on the Software.
+The Software is permitted to be used only in connection with Granite Devices products and services. 
 
-## Intellectual Property and Ownership
+You may install as many copies of the Software as You need for Your own use.
 
-Granite Devices shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright) are and shall remain the property of Granite Devices.
+You may not rent or lease or lend or sell the Software.
 
-Granite Devices reserves the right to grant licences to use the Software to third parties.
+You may permanently transfer all of Your rights under this Agreement to a third party, provided that You retain no copies, You transfer all of the Software including this Agreement.        
+
+You may not publish any source code of the Software unless it is explicitly made available as open source by Granite Devices. If You wish to make a Contribution based on the open source material made available by Granite Devices, the Contribution shall be made only under the Granite Devices Contributor License Agreement. The Granite Devices Contributor License Agreement is available at https://granitedevices.com/legal.
+
+
+
+## Data Gathering
+
+You agree that Granite Devices may collect and use technical data and related information — including but not limited to technical information about the Granite Devices products, related Software, their usage and peripherals – that is gathered to facilitate the provision of software updates, product support, and other services   related to the Software. Granite Devices may use this information, as long as it is in a form that does not personally identify you, to improve its products or to provide services to you.
+
 
 
 ## Termination
 
-This EULA agreement is effective from the date you first use the Software and shall continue until terminated.
+Without prejudice to any other rights, Granite Devices may terminate this Agreement if You fail to comply with the terms and conditions of this Agreement. In such event, You must destroy all copies of the Software and all of its component parts.
 
-It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 
-## Governing Law
 
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Finland. Any and all disputes that may arise between User and Granite Devices out of or relating to this Agreement shall be finally settled in arbitration in Tampere, Finland, by one (1) arbitrator in accordance with the Arbitration Rules of the Finland Chamber of Commerce. English shall be the language of the arbitration proceedings unless another language is agreed on between the Parties. The parties undertake and agree that all arbitral proceedings conducted with reference to this section shall be kept strictly confidential and all information disclosed in the course of such arbitral proceeding shall be used solely for the purpose of those proceedings.
+## Third party components
+
+Components from third parties may be delivered along with the Software. The Software is delivered along with certain software components provide by third parties ("Third Party Software"). Granite Devices shall not be responsible for any such Third-Party Software. Third-Party Software, particularly open source software, may be subject to separate license terms included with, or contained in the setup installation segments of such Third-Party Software. The terms set forth in this EULA do not apply to Third-Party Software to the extent they are inconsistent with such Third-Party Software licenses. This EULA governs Your use of the Software in executable form. Licenses and source code for any open source Third-Party Software delivered along with the Software can be obtained via https://granitedevices.com/legal.
+
+
+
+## Copyright
+
+All title and copyrights in and to the Software (excluding Third Party Software and including but not limited to any source code, software examples incorporated into the Software), the accompanying materials, and any copies of the Software, are owned by Granite Devices.
+
+
+
+## Warranty
+
+The Software is provided "as is" without any warranty of any kind either expressed, implied, or statutory, including, without limitation, warranties that the Software is free of defects, merchantable, fit for a particular purpose or non-infringing.
+
+Granite Devices is not liable for any damages You may incur. IN NO EVENT SHALL GRANITE DEVICES, ITS AFFILIATES, OR THEIR RESPECTIVE SUPPLIERS OR CUSTOMERS BE LIABLE FOR ANY INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR INDIRECT DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION DAMAGES FOR INTERRUPTION OF BUSINESS, LOST DATA, LOST PROFITS, OR THE LIKE) REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), PRODUCT LIABILITY, OR OTHER THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL THE CUMULATIVE LIABILITY OF GRANITE DEVICES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNT PAID TO GRANITE DEVICES IN RESPECT OF THE SOFTWARE GIVING RISE TO THE CLAIM OR, IF NO FEES WERE PAID, THEN FIVE HUNDRED EUROS. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE FOREGOING EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU. THIS LIMITATION OF LIABILITY WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY SET FORTH HEREIN. THIS LIMITATION OF LIABILITY IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND GRANITE DEVICES. GRANITE DEVICES WOULD NOT PROVIDE THE PRODUCT OR THE SOFTWARE TO YOU ABSENT SUCH LIMITATION.
+
+
+Granite Devices may update the terms of this EULA. The current version of this EULA is posted at https://granitedevices.com/legal. It is Your responsibility to remain informed of any changes as You are bound by the latest version of the EULA.
+
+Disputes and applicable law. This Agreement will be governed by and construed in accordance with the laws of Finland excluding its conflicts of law provisions. Under certain circumstances, the governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods ("UN Convention") and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this Agreement.
+
+
+Granite Devices Oy
+
+Hermiankatu 6-8 E
+
+33720 TAMPERE
+
+FINLAND
+
