@@ -1,3 +1,21 @@
+# Summary
+
+- This is a short summary of this End-User License Agreement (EULA). This summary’s purpose is to highlight a few main points for a quick overview. The summary is not meant to be comprehensive. Full text is available after this summary. 
+
+- This EULA governs software provided by Granite Devices from the moment software is installed. 
+
+- You may:
+	* Install as many copies of software as you need for your own use. 
+	* Transfer the software to a third party (e.g. a friend) if you do not retain any copies for yourself. 
+
+- You may NOT:
+	* Rent, lease or sell software
+	* Publish any source code that is not already made public by Granite Devices (open source).
+
+- Granite Devices may gather anonymous data to develop its products and services. The data can be used only if when it is in such a form that the users cannot be identified. 
+
+- The software is delivered as it is. Granite Devices does not provide any kind of  warranty. The use of the software is at your own risk. 
+
 # Granite Devices Software End-User License Agreement
 
 This End-User License Agreement ("EULA" or "Agreement") is a legal agreement between You, the end-user (either an individual or a single entity), and Granite Devices Oy ("Granite Devices"). This EULA governs Your acquisition and use of the executable software accompanying the Product that is made available by Granite Devices ("Software").
@@ -5,7 +23,6 @@ This End-User License Agreement ("EULA" or "Agreement") is a legal agreement bet
 By installing or using the Software, You agree to be bound by the terms of this Agreement. If You do not agree to the terms of this Agreement, You may not install or use the Software.
 
 If You use beta versions of the Software, this EULA will also govern those versions.
-
 
 
 ## Rights and obligations
