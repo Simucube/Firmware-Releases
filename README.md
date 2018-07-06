@@ -1,5 +1,6 @@
 # Firmware-Releases
-Here, public beta builds of the new SimuCUBE firmware are released.
+Here, public beta builds of the new SimuCUBE firmware are released. Please download releases from the release page:
+https://github.com/SimuCUBE/Firmware-Releases/releases
 
 ## Installation Manual and User Guide
  These can be found here: https://granitedevices.com/wiki/SimuCUBE_Firmware_User_Guide
