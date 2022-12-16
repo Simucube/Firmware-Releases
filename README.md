@@ -1,6 +1,6 @@
 # Firmware-Releases
 Here, public beta builds of the new SimuCUBE firmware are released. Please download releases from the release page:
-https://github.com/SimuCUBE/Firmware-Releases/releases
+https://granitedevices.com/wiki/SimuCUBE_firmware_releases
 
 Looking for old release? Please see this commit:
 https://github.com/SimuCUBE/Firmware-Releases/tree/ec5b558ca68af0fd875467c6be55c800f9aa739e
@@ -16,7 +16,3 @@ https://community.granitedevices.com/c/simucube
 
 ## End-user license and copyright information
 Please read the EULA.md file.
-
-
-## Open-source development
-Opensource development of the firmware is in a separate repository here: https://github.com/SimuCUBE/SimuCUBE-OpenSource-Firmware
